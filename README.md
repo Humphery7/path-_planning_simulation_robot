@@ -78,3 +78,7 @@ Contributions to improve the simulation or add new features are welcome. Please 
 
 - CoppeliaSim (V-REP) for providing the simulation environment
 - Contributors and maintainers of the NumPy library
+
+## Contact Information
+
+linkedin: `https://www.linkedin.com/in/humpheryotu/`, Email: `humpheryufuoma@gmail.com`
